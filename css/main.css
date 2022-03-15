@@ -1,0 +1,35 @@
+body {
+	background-color: #EEE;
+}
+
+#container {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	color: #2ca089;
+	text-align: center;
+	font-size: 2em;
+}
+
+/* links */
+
+a:link, a:visited {
+	background-color: #2ca089;
+	color: white;
+	padding: 5px 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+
+a: hover, a: active {
+	background-color: #AFDCB1;
+}
+
+#btn_add {
+	padding: 5px 0px;
+	text-align: right;
+}

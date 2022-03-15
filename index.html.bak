@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="">
+		<link rel="stylesheet" type="text/css" href="">
+	</head>
+	
+	<body>
+		<div id="container">
+			<div id="header">
+				<h2>My Family</h2>
+				<div id="btn_add">
+					<a href="form.php">ADD</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
